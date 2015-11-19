@@ -1,2 +1,2 @@
 # Hello-Jamal
-my first program
+I have no idea why could not get the command line to work. 
